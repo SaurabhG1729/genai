@@ -1,0 +1,31 @@
+{
+  "document_info": {
+    "file_path": "D:\\genai\\R.txt",
+    "word_count": 539,
+    "analysis_date": "2025-09-16 17:38:46"
+  },
+  "key_terms": [],
+  "structure": {
+    "sections": [],
+    "sentence_count": 40,
+    "paragraph_count": 1,
+    "avg_sentence_length": 13.85
+  },
+  "plain_language_summary": "Reservation of Seats Indian nationals belonging to certain categories are admitted under the seats reserved for them in accordance with the rules prescribed by the Government of India. locomotor, visual or SEVERE dyslexic shall be eligible for the benefits of PwD sub-category. The category of a candidate as entered in the database, which will be made available by the JEE Apex Board which conducts the JEE (Main) 2025 examination, will be final and shall remain the same in JEE (Advanced) 2025 examination. If it is discovered at any stage that a candidate has used a false  fake  incorrect document, or has furnished false, incorrect or incomplete information, in order to avail the benefit of reservation, then such a candidate shall be excluded from all admission processes.",
+  "key_obligations": [
+    "locomotor, visual or SEVERE dyslexic must be eligible for the benefits of PwD sub-category",
+    "The category of a candidate as entered in the database, which will be made available by the JEE Apex Board which conducts the JEE (Main) 2025 examination, will be final and must remain the same in JEE (Advanced) 2025 examination",
+    "Candidates must note that the benefit of reservation will be given to them subject to verification of documents (and an additional physical verification at one of the IITs for candidates belonging to PwD category, as provided below in Clause 15)",
+    "If it is discovered at any stage that a candidate has used a false  fake  incorrect document, or has furnished false, incorrect or incomplete information, in order to avail the benefit of reservation, then such a candidate must be excluded from all admission processes",
+    "In case such a candidate has already been given admission, the admission must stand cancelled"
+  ],
+  "risks_and_warnings": [],
+  "readability": {
+    "avg_words_per_sentence": 13.5,
+    "total_words": 539,
+    "total_sentences": 40,
+    "score": "Good",
+    "level": "Easy to read"
+  },
+  "original_preview": "Reservation of Seats Indian nationals belonging to certain categories are admitted under the seats reserved for them in accordance with the rules prescribed by the Government of India. The categories and the extent of reservation are as follows:  General category candidates belonging to Economically..."
+}

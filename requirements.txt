@@ -1,0 +1,20 @@
+# Legal Document Demystifier - Requirements
+# Install these packages to run the project
+
+# Core AI libraries (choose one or both)
+openai>=1.0.0          # For OpenAI API (requires API key)
+transformers>=4.21.0   # For free Hugging Face models
+torch>=1.13.0          # Required for transformers
+
+# Document processing
+PyPDF2>=3.0.0          # For reading PDF files
+
+# Optional: Web interface (for future enhancement)
+streamlit>=1.25.0      # For creating simple web apps
+
+# Data processing utilities
+numpy>=1.21.0
+pandas>=1.3.0
+
+# Text processing
+nltk>=3.7              # Natural Language Toolkit (optional)
